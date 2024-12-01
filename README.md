@@ -1,6 +1,7 @@
-# DAY 4 WORKSHOP
+# DAY 4 WORKSHOP - Fortune Cookie
 
-VTTP5a Day 4 Workshop - Fortune Cookie (Client Server I/O)
+- Fortune Cookie (Client Server I/O)
+- Client connects to the server, sends a command to request a random fortune
 
 ## Usage
 * Need to compile classes first / create .jar
